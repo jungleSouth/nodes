@@ -1,0 +1,33 @@
+{
+  "types":
+          [
+
+            {
+              "name":"present continuous",
+              "image":"present_continuous.png",
+              "form":"am/is/are+ing",
+              "example":
+                      [
+                        {
+                          "I":"I'm driving",
+                          "he/she/it":"he/she/it is working",
+                          "we/you/they":"we/you/they are doing"
+                        }
+                      ],
+              "explanation":"I am doing something = I am in the middle of doing it, I've started doing it and I haven't finished"
+            },
+            {
+              "name":"present simple",
+              "image":"present_simple.png",
+              "form":"we/you/they+verb or he/she/it+verb+s(es)",
+              "example":
+              [
+                {
+                  "l/we/you/they":"l/we/you/they drive/work/do",
+                  "he/she/it ":"he/she/it drives/works/does"
+                }
+              ],
+              "explanation":"We use the present simple to talk about things in general. We use it to say that something happens allthe time or repeatedly, or that something is true in general"
+            }
+          ]
+}
